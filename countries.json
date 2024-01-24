@@ -1,0 +1,760 @@
+{
+  "countries": [
+    {
+      "language_name": "Afrikaans",
+      "language_code": "af",
+      "country_name": "Namibia",
+      "currency_code": "NAD",
+      "country_code": "NA"
+    },
+    {
+      "language_name": "Albanian",
+      "language_code": "sq",
+      "country_name": "Albania",
+      "currency_code": "ALL",
+      "country_code": "AL"
+    },
+    {
+      "language_name": "Amharic",
+      "language_code": "am",
+      "country_name": "Ethiopia",
+      "currency_code": "ETB",
+      "country_code": "ET"
+    },
+    {
+      "language_name": "Arabic",
+      "language_code": "ar",
+      "country_name": "Algeria",
+      "currency_code": "DZD",
+      "country_code": "DZ"
+    },
+    {
+      "language_name": "Armenian",
+      "language_code": "hy",
+      "country_name": "Armenia",
+      "currency_code": "AMD",
+      "country_code": "AM"
+    },
+    {
+      "language_name": "Aymara",
+      "language_code": "ay",
+      "country_name": "Bolivia",
+      "currency_code": "BOB",
+      "country_code": "BO"
+    },
+    {
+      "language_name": "Azerbaijani",
+      "language_code": "az",
+      "country_name": "Azerbaijan",
+      "currency_code": "AZN",
+      "country_code": "AZ"
+    },
+    {
+      "language_name": "Bambara",
+      "language_code": "bm",
+      "country_name": "Mali",
+      "currency_code": "XOF",
+      "country_code": "ML"
+    },
+    {
+      "language_name": "Basque",
+      "language_code": "eu",
+      "country_name": "Bulgaria",
+      "currency_code": "BGN",
+      "country_code": "BG"
+    },
+    {
+      "language_name": "Belarusian",
+      "language_code": "be",
+      "country_name": "Belarus",
+      "currency_code": "BYR",
+      "country_code": "BY"
+    },
+    {
+      "language_name": "Bengali",
+      "language_code": "bn",
+      "country_name": "Bangladesh",
+      "currency_code": "BDT",
+      "country_code": "BD"
+    },
+    {
+      "language_name": "Bosnian",
+      "language_code": "bs",
+      "country_name": "Bosnia and Herzegovina",
+      "currency_code": "BAM",
+      "country_code": "BA"
+    },
+    {
+      "language_name": "Bulgarian",
+      "language_code": "bg",
+      "country_name": "Bulgaria",
+      "currency_code": "BGN",
+      "country_code": "BG"
+    },
+    {
+      "language_name": "Catalan",
+      "language_code": "ca",
+      "country_name": "Andorra",
+      "currency_code": "EUR",
+      "country_code": "AD"
+    },
+    {
+      "language_name": "Chinese (Simplified)",
+      "language_code": "zh-CN",
+      "country_name": "Hong Kong",
+      "currency_code": "HKD",
+      "country_code": "HK"
+    },
+    {
+      "language_name": "Chinese (Traditional)",
+      "language_code": "zh-TW",
+      "country_name": "China",
+      "currency_code": "CNY",
+      "country_code": "CN"
+    },
+    {
+      "language_name": "Corsican",
+      "language_code": "co",
+      "country_name": "France",
+      "currency_code": "EUR",
+      "country_code": "FR"
+    },
+    {
+      "language_name": "Croatian",
+      "language_code": "hr",
+      "country_name": "Croatia",
+      "currency_code": "HRK",
+      "country_code": "HR"
+    },
+    {
+      "language_name": "Czech",
+      "language_code": "cs",
+      "country_name": "Czechia",
+      "currency_code": "CZK",
+      "country_code": "CZ"
+    },
+    {
+      "language_name": "Danish",
+      "language_code": "da",
+      "country_name": "Denmark",
+      "currency_code": "DKK",
+      "country_code": "DK"
+    },
+    {
+      "language_name": "Dhivehi",
+      "language_code": "dv",
+      "country_name": "Maldives",
+      "currency_code": "MVR",
+      "country_code": "MV"
+    },
+    {
+      "language_name": "Dutch",
+      "language_code": "nl",
+      "country_name": "Belgium",
+      "currency_code": "EUR",
+      "country_code": "BE"
+    },
+    {
+      "language_name": "English",
+      "language_code": "en",
+      "country_name": "Antigua and Barbuda",
+      "currency_code": "XCD",
+      "country_code": "AG"
+    },
+    {
+      "language_name": "Estonian",
+      "language_code": "et",
+      "country_name": "Estonia",
+      "currency_code": "EUR",
+      "country_code": "EE"
+    },
+    {
+      "language_name": "Ewe",
+      "language_code": "ee",
+      "country_name": "Togo",
+      "currency_code": "XOF",
+      "country_code": "TG"
+    },
+    {
+      "language_name": "Filipino (Tagalog)",
+      "language_code": "fil",
+      "country_name": "Philippines",
+      "currency_code": "PHP",
+      "country_code": "PH"
+    },
+    {
+      "language_name": "Finnish",
+      "language_code": "fi",
+      "country_name": "Finland",
+      "currency_code": "EUR",
+      "country_code": "FI"
+    },
+    {
+      "language_name": "French",
+      "language_code": "fr",
+      "country_name": "Benin",
+      "currency_code": "XOF",
+      "country_code": "BJ"
+    },
+    {
+      "language_name": "Frisian",
+      "language_code": "fy",
+      "country_name": "Netherlands",
+      "currency_code": "EUR",
+      "country_code": "NL"
+    },
+    {
+      "language_name": "Galician",
+      "language_code": "gl",
+      "country_name": "Spain",
+      "currency_code": "EUR",
+      "country_code": "ES"
+    },
+    {
+      "language_name": "Georgian",
+      "language_code": "ka",
+      "country_name": "Georgia",
+      "currency_code": "GEL",
+      "country_code": "GE"
+    },
+    {
+      "language_name": "German",
+      "language_code": "de",
+      "country_name": "Austria",
+      "currency_code": "EUR",
+      "country_code": "AT"
+    },
+    {
+      "language_name": "Greek",
+      "language_code": "el",
+      "country_name": "Cyprus",
+      "currency_code": "EUR",
+      "country_code": "CY"
+    },
+    {
+      "language_name": "Guarani",
+      "language_code": "gn",
+      "country_name": "Paraguay",
+      "currency_code": "PYG",
+      "country_code": "PY"
+    },
+    {
+      "language_name": "Haitian Creole",
+      "language_code": "ht",
+      "country_name": "Haiti",
+      "currency_code": "HTG",
+      "country_code": "HT"
+    },
+    {
+      "language_name": "Hawaiian",
+      "language_code": "haw",
+      "country_name": "United States",
+      "currency_code": "USD",
+      "country_code": "US"
+    },
+    {
+      "language_name": "Hebrew",
+      "language_code": "he",
+      "country_name": "Israel",
+      "currency_code": "ILS",
+      "country_code": "IL"
+    },
+    {
+      "language_name": "Hindi",
+      "language_code": "hi",
+      "country_name": "India",
+      "currency_code": "INR",
+      "country_code": "IN"
+    },
+    {
+      "language_name": "Hmong",
+      "language_code": "hmn",
+      "country_name": "China",
+      "currency_code": "CNY",
+      "country_code": "CN"
+    },
+    {
+      "language_name": "Hungarian",
+      "language_code": "hu",
+      "country_name": "Hungary",
+      "currency_code": "HUF",
+      "country_code": "HU"
+    },
+    {
+      "language_name": "Icelandic",
+      "language_code": "is",
+      "country_name": "Iceland",
+      "currency_code": "ISK",
+      "country_code": "IS"
+    },
+    {
+      "language_name": "Indonesian",
+      "language_code": "id",
+      "country_name": "Indonesia",
+      "currency_code": "IDR",
+      "country_code": "ID"
+    },
+    {
+      "language_name": "Irish",
+      "language_code": "ga",
+      "country_name": "Ireland",
+      "currency_code": "EUR",
+      "country_code": "IE"
+    },
+    {
+      "language_name": "Italian",
+      "language_code": "it",
+      "country_name": "Italy",
+      "currency_code": "EUR",
+      "country_code": "IT"
+    },
+    {
+      "language_name": "Japanese",
+      "language_code": "ja",
+      "country_name": "Japan",
+      "currency_code": "JPY",
+      "country_code": "JP"
+    },
+    {
+      "language_name": "Kazakh",
+      "language_code": "kk",
+      "country_name": "Kazakhstan",
+      "currency_code": "KZT",
+      "country_code": "KZ"
+    },
+    {
+      "language_name": "Khmer",
+      "language_code": "km",
+      "country_name": "Cambodia",
+      "currency_code": "KHR",
+      "country_code": "KH"
+    },
+    {
+      "language_name": "Kinyarwanda",
+      "language_code": "rw",
+      "country_name": "Rwanda",
+      "currency_code": "RWF",
+      "country_code": "RW"
+    },
+    {
+      "language_name": "Korean",
+      "language_code": "ko",
+      "country_name": "North Korea",
+      "currency_code": "KPW",
+      "country_code": "KP"
+    },
+    {
+      "language_name": "Krio",
+      "language_code": "kri",
+      "country_name": "Sierra Leone",
+      "currency_code": "SLL",
+      "country_code": "SL"
+    },
+    {
+      "language_name": "Kurdish",
+      "language_code": "ku",
+      "country_name": "Iraq",
+      "currency_code": "IQD",
+      "country_code": "IQ"
+    },
+    {
+      "language_name": "Kurdish (Sorani)",
+      "language_code": "ckb",
+      "country_name": "Iran",
+      "currency_code": "IRR",
+      "country_code": "IR"
+    },
+    {
+      "language_name": "Kyrgyz",
+      "language_code": "ky",
+      "country_name": "Kyrgyzstan",
+      "currency_code": "KGS",
+      "country_code": "KG"
+    },
+    {
+      "language_name": "Lao",
+      "language_code": "lo",
+      "country_name": "Laos",
+      "currency_code": "LAK",
+      "country_code": "LA"
+    },
+    {
+      "language_name": "Latin",
+      "language_code": "la",
+      "country_name": "Brazil",
+      "currency_code": "BRL",
+      "country_code": "BR"
+    },
+    {
+      "language_name": "Latvian",
+      "language_code": "lv",
+      "country_name": "Latvia",
+      "currency_code": "EUR",
+      "country_code": "LV"
+    },
+    {
+      "language_name": "Lingala",
+      "language_code": "ln",
+      "country_name": "Republic of the Congo",
+      "currency_code": "XAF",
+      "country_code": "CG"
+    },
+    {
+      "language_name": "Lithuanian",
+      "language_code": "lt",
+      "country_name": "Lithuania",
+      "currency_code": "EUR",
+      "country_code": "LT"
+    },
+    {
+      "language_name": "Luganda",
+      "language_code": "lg",
+      "country_name": "Uganda",
+      "currency_code": "UGX",
+      "country_code": "UG"
+    },
+    {
+      "language_name": "Luxembourgish",
+      "language_code": "lb",
+      "country_name": "Luxembourg",
+      "currency_code": "EUR",
+      "country_code": "LU"
+    },
+    {
+      "language_name": "Macedonian",
+      "language_code": "mk",
+      "country_name": "North Macedonia",
+      "currency_code": "Macedonia",
+      "country_code": "MKD"
+    },
+    {
+      "language_name": "Malagasy",
+      "language_code": "mg",
+      "country_name": "Madagascar",
+      "currency_code": "MGA",
+      "country_code": "MG"
+    },
+    {
+      "language_name": "Malay",
+      "language_code": "ms",
+      "country_name": "Brunei",
+      "currency_code": "BND",
+      "country_code": "BN"
+    },
+    {
+      "language_name": "Maltese",
+      "language_code": "mt",
+      "country_name": "Malta",
+      "currency_code": "EUR",
+      "country_code": "MT"
+    },
+    {
+      "language_name": "Maori",
+      "language_code": "mi",
+      "country_name": "New Zealand",
+      "currency_code": "NZD",
+      "country_code": "NZ"
+    },
+    {
+      "language_name": "Mongolian",
+      "language_code": "mn",
+      "country_name": "Mongolia",
+      "currency_code": "MNT",
+      "country_code": "MN"
+    },
+    {
+      "language_name": "Myanmar (Burmese)",
+      "language_code": "my",
+      "country_name": "Myanmar [Burma]",
+      "currency_code": "MMK",
+      "country_code": "MM"
+    },
+    {
+      "language_name": "Nepali",
+      "language_code": "ne",
+      "country_name": "Nepal",
+      "currency_code": "NPR",
+      "country_code": "NP"
+    },
+    {
+      "language_name": "Norwegian",
+      "language_code": "no",
+      "country_name": "Norway",
+      "currency_code": "NOK",
+      "country_code": "NO"
+    },
+    {
+      "language_name": "Nyanja (Chichewa)",
+      "language_code": "ny",
+      "country_name": "Malawi",
+      "currency_code": "MWK",
+      "country_code": "MW"
+    },
+    {
+      "language_name": "Oromo",
+      "language_code": "om",
+      "country_name": "Ethiopia",
+      "currency_code": "ETB",
+      "country_code": "ET"
+    },
+    {
+      "language_name": "Pashto",
+      "language_code": "ps",
+      "country_name": "Afghanistan",
+      "currency_code": "AFN",
+      "country_code": "AF"
+    },
+    {
+      "language_name": "Persian",
+      "language_code": "fa",
+      "country_name": "Iran",
+      "currency_code": "IRR",
+      "country_code": "IR"
+    },
+    {
+      "language_name": "Polish",
+      "language_code": "pl",
+      "country_name": "Poland",
+      "currency_code": "PLN",
+      "country_code": "PL"
+    },
+    {
+      "language_name": "Portuguese (Portugal, Brazil)",
+      "language_code": "pt",
+      "country_name": "Portugal",
+      "currency_code": "EUR",
+      "country_code": "PT"
+    },
+    {
+      "language_name": "Quechua",
+      "language_code": "qu",
+      "country_name": "Peru",
+      "currency_code": "PEN",
+      "country_code": "PE"
+    },
+    {
+      "language_name": "Romanian",
+      "language_code": "ro",
+      "country_name": "Moldova",
+      "currency_code": "MDL",
+      "country_code": "MD"
+    },
+    {
+      "language_name": "Russian",
+      "language_code": "ru",
+      "country_name": "Kazakhstan",
+      "currency_code": "KZT",
+      "country_code": "KZ"
+    },
+    {
+      "language_name": "Samoan",
+      "language_code": "sm",
+      "country_name": "Samoa",
+      "currency_code": "WST",
+      "country_code": "WS"
+    },
+    {
+      "language_name": "Scots Gaelic",
+      "language_code": "gd",
+      "country_name": "United Kingdom",
+      "currency_code": "GBP",
+      "country_code": "GB"
+    },
+    {
+      "language_name": "Serbian",
+      "language_code": "sr",
+      "country_name": "Serbia",
+      "currency_code": "RSD",
+      "country_code": "RS"
+    },
+    {
+      "language_name": "Sesotho",
+      "language_code": "st",
+      "country_name": "Lesotho",
+      "currency_code": "LSL",
+      "country_code": "LS"
+    },
+    {
+      "language_name": "Shona",
+      "language_code": "sn",
+      "country_name": "Zimbabwe",
+      "currency_code": "ZWL",
+      "country_code": "ZW"
+    },
+    {
+      "language_name": "Sinhala (Sinhalese)",
+      "language_code": "si",
+      "country_name": "Sri Lanka",
+      "currency_code": "LKR",
+      "country_code": "LK"
+    },
+    {
+      "language_name": "Slovak",
+      "language_code": "sk",
+      "country_name": "Slovakia",
+      "currency_code": "EUR",
+      "country_code": "SK"
+    },
+    {
+      "language_name": "Slovenian",
+      "language_code": "sl",
+      "country_name": "Slovenia",
+      "currency_code": "EUR",
+      "country_code": "SI"
+    },
+    {
+      "language_name": "Somali",
+      "language_code": "so",
+      "country_name": "Somalia",
+      "currency_code": "SOS",
+      "country_code": "SO"
+    },
+    {
+      "language_name": "Spanish",
+      "language_code": "es",
+      "country_name": "Argentina",
+      "currency_code": "ARS",
+      "country_code": "AR"
+    },
+    {
+      "language_name": "Swahili",
+      "language_code": "sw",
+      "country_name": "Kenya",
+      "currency_code": "KES",
+      "country_code": "KE"
+    },
+    {
+      "language_name": "Swedish",
+      "language_code": "sv",
+      "country_name": "Finland",
+      "currency_code": "EUR",
+      "country_code": "FI"
+    },
+    {
+      "language_name": "Tajik",
+      "language_code": "tg",
+      "country_name": "Tajikistan",
+      "currency_code": "TJS",
+      "country_code": "TJ"
+    },
+    {
+      "language_name": "Tatar",
+      "language_code": "tt",
+      "country_name": "Russia",
+      "currency_code": "RUB",
+      "country_code": "RU"
+    },
+    {
+      "language_name": "Thai",
+      "language_code": "th",
+      "country_name": "Thailand",
+      "currency_code": "THB",
+      "country_code": "TH"
+    },
+    {
+      "language_name": "Tigrinya",
+      "language_code": "ti",
+      "country_name": "Eritrea",
+      "currency_code": "ERN",
+      "country_code": "ER"
+    },
+    {
+      "language_name": "Tsonga",
+      "language_code": "ts",
+      "country_name": "Zimbabwe",
+      "currency_code": "ZWL",
+      "country_code": "ZW"
+    },
+    {
+      "language_name": "Turkish",
+      "language_code": "tr",
+      "country_name": "Turkey",
+      "currency_code": "TRY",
+      "country_code": "TR"
+    },
+    {
+      "language_name": "Turkmen",
+      "language_code": "tk",
+      "country_name": "Turkmenistan",
+      "currency_code": "TMT",
+      "country_code": "TM"
+    },
+    {
+      "language_name": "Twi (Akan)",
+      "language_code": "ak",
+      "country_name": "Ghana",
+      "currency_code": "GHS",
+      "country_code": "GH"
+    },
+    {
+      "language_name": "Ukrainian",
+      "language_code": "uk",
+      "country_name": "Ukraine",
+      "currency_code": "UAH",
+      "country_code": "UA"
+    },
+    {
+      "language_name": "Urdu",
+      "language_code": "ur",
+      "country_name": "Pakistan",
+      "currency_code": "PKR",
+      "country_code": "PK"
+    },
+    {
+      "language_name": "Uyghur",
+      "language_code": "ug",
+      "country_name": "China",
+      "currency_code": "CNY",
+      "country_code": "CN"
+    },
+    {
+      "language_name": "Uzbek",
+      "language_code": "uz",
+      "country_name": "Uzbekistan",
+      "currency_code": "UZS",
+      "country_code": "UZ"
+    },
+    {
+      "language_name": "Vietnamese",
+      "language_code": "vi",
+      "country_name": "Vietnam",
+      "currency_code": "VND",
+      "country_code": "VN"
+    },
+    {
+      "language_name": "Welsh",
+      "language_code": "cy",
+      "country_name": "United Kingdom",
+      "currency_code": "GBP",
+      "country_code": "GB"
+    },
+    {
+      "language_name": "South Africa",
+      "language_code": "af",
+      "country_name": "South Africa",
+      "currency_code": "ZAR",
+      "country_code": "ZA"
+    },
+    {
+      "language_name": "Yiddish",
+      "language_code": "yi",
+      "country_name": "Russia",
+      "currency_code": "RUB",
+      "country_code": "RU"
+    },
+    {
+      "language_name": "Yoruba",
+      "language_code": "yo",
+      "country_name": "Nigeria",
+      "currency_code": "NGN",
+      "country_code": "NG"
+    },
+    {
+      "language_name": "Guinea",
+      "language_code": "fr",
+      "country_name": "Guinea",
+      "currency_code": "GNF",
+      "country_code": "GN"
+    }
+  ]
+}
