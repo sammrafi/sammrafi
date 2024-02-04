@@ -1,14 +1,6 @@
 {
   "countries": [
  {
-  "country_name": "Iraq",
-  "language_name": " Arabic",
-  "language_code": "ar",
-  "country_code": "IQ",
-  "currency_code": "IQD",
-  "currency_symbol": "IQD"
- },
- {
   "country_name": "South Africa",
   "language_name": "Afrikaans",
   "language_code": "af",
