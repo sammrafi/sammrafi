@@ -6,7 +6,8 @@
   "language_code": "af",
   "country_code": "ZA",
   "currency_code": "ZAR",
-  "currency_symbol": "ZAR"
+  "currency_symbol": "ZAR",
+  "native": false
  },
  {
   "country_name": "Albania",
@@ -14,7 +15,8 @@
   "language_code": "sq",
   "country_code": "AL",
   "currency_code": "ALL",
-  "currency_symbol": "ALL"
+  "currency_symbol": "ALL",
+  "native": false
  },
  {
   "country_name": "Ethiopia",
@@ -22,7 +24,8 @@
   "language_code": "am",
   "country_code": "ET",
   "currency_code": "ETB",
-  "currency_symbol": "ETB"
+  "currency_symbol": "ETB",
+  "native": false
  },
  {
   "country_name": "Saudi Arabia",
@@ -30,7 +33,8 @@
   "language_code": "ar",
   "country_code": "SAR",
   "currency_code": "SAR",
-  "currency_symbol": "﷼"
+  "currency_symbol": "SAR",
+  "native": false
  },
  {
   "country_name": "Armenia",
@@ -38,7 +42,8 @@
   "language_code": "hy",
   "country_code": "AM",
   "currency_code": "AMD",
-  "currency_symbol": "Դ"
+  "currency_symbol": "Դ",
+  "native": false
  },
  {
   "country_name": "Bolivia",
@@ -46,7 +51,8 @@
   "language_code": "es",
   "country_code": "BO",
   "currency_code": "BOB",
-  "currency_symbol": "Bs."
+  "currency_symbol": "Bs.",
+  "native": false
  },
  {
   "country_name": "Azerbaijan",
@@ -54,7 +60,8 @@
   "language_code": "az",
   "country_code": "AZ",
   "currency_code": "AZN",
-  "currency_symbol": "AZN"
+  "currency_symbol": "AZN",
+  "native": false
  },
  {
   "country_name": "Mali",
@@ -62,7 +69,8 @@
   "language_code": "bm",
   "country_code": "ML",
   "currency_code": "XOF",
-  "currency_symbol": "CFA"
+  "currency_symbol": "CFA",
+  "native": false
  },
  {
   "country_name": "Belarus",
@@ -70,7 +78,8 @@
   "language_code": "be",
   "country_code": "BY",
   "currency_code": "BYN",
-  "currency_symbol": "BYN"
+  "currency_symbol": "BYN",
+  "native": false
  },
  {
   "country_name": "Bangladesh",
@@ -78,7 +87,8 @@
   "language_code": "bn",
   "country_code": "BD",
   "currency_code": "BDT",
-  "currency_symbol": "৳"
+  "currency_symbol": "৳",
+  "native": false
  },
  {
   "country_name": "Bosnia and Herzegovina",
@@ -86,7 +96,8 @@
   "language_code": "bs",
   "country_code": "BA",
   "currency_code": "BAM",
-  "currency_symbol": "KM"
+  "currency_symbol": "KM",
+  "native": false
  },
  {
   "country_name": "Bulgaria",
@@ -94,7 +105,8 @@
   "language_code": "bg",
   "country_code": "BG",
   "currency_code": "BGN",
-  "currency_symbol": "лв."
+  "currency_symbol": "лв.",
+  "native": false
  },
  {
   "country_name": "Andorra",
@@ -102,7 +114,8 @@
   "language_code": "ca",
   "country_code": "AD",
   "currency_code": "EUR",
-  "currency_symbol": "€"
+  "currency_symbol": "€",
+  "native": false
  },
  {
   "country_name": "Hong Kong",
@@ -110,7 +123,8 @@
   "language_code": "zh-CN",
   "country_code": "HK",
   "currency_code": "HKD",
-  "currency_symbol": " HK$"
+  "currency_symbol": " HK$",
+  "native": false
  },
  {
   "country_name": "China",
@@ -118,7 +132,8 @@
   "language_code": "zh-TW",
   "country_code": "CN",
   "currency_code": "CNY",
-  "currency_symbol": "CN¥"
+  "currency_symbol": "CN¥",
+  "native": false
  },
  {
   "country_name": "France",
@@ -126,7 +141,8 @@
   "language_code": "fr",
   "country_code": "FR",
   "currency_code": "EUR",
-  "currency_symbol": "€"
+  "currency_symbol": "€",
+  "native": true
  },
  {
   "country_name": "Croatia",
@@ -134,7 +150,8 @@
   "language_code": "hr",
   "country_code": "HR",
   "currency_code": "HRK",
-  "currency_symbol": "kn"
+  "currency_symbol": "kn",
+  "native": false
  },
  {
   "country_name": "Czechia",
@@ -142,7 +159,8 @@
   "language_code": "cs",
   "country_code": "CZK",
   "currency_code": "CZK",
-  "currency_symbol": "Kč"
+  "currency_symbol": "Kč",
+  "native": false
  },
  {
   "country_name": "Denmark",
@@ -150,7 +168,8 @@
   "language_code": "da",
   "country_code": "DK",
   "currency_code": "DKK",
-  "currency_symbol": "kr"
+  "currency_symbol": "kr",
+  "native": false
  },
  {
   "country_name": "Maldives",
@@ -158,7 +177,8 @@
   "language_code": "dv",
   "country_code": "MV",
   "currency_code": "MVR",
-  "currency_symbol": "MRF"
+  "currency_symbol": "MRF",
+  "native": false
  },
  {
   "country_name": "Belgium",
@@ -166,7 +186,8 @@
   "language_code": "nl",
   "country_code": "BE",
   "currency_code": "EUR",
-  "currency_symbol": "€"
+  "currency_symbol": "€",
+  "native": false
  },
  {
   "country_name": "Antigua and Barbuda",
@@ -174,7 +195,8 @@
   "language_code": "en",
   "country_code": "AG",
   "currency_code": "XCD",
-  "currency_symbol": "$"
+  "currency_symbol": "$",
+  "native": false
  },
  {
   "country_name": "Estonia",
@@ -182,7 +204,8 @@
   "language_code": "et",
   "country_code": "EE",
   "currency_code": "EUR",
-  "currency_symbol": "€"
+  "currency_symbol": "€",
+  "native": false
  },
  {
   "country_name": "Ghana",
@@ -190,7 +213,8 @@
   "language_code": "en",
   "country_code": "GH",
   "currency_code": "GHS",
-  "currency_symbol": "₵"
+  "currency_symbol": "₵",
+  "native": false
  },
  {
   "country_name": "Philippines",
@@ -198,7 +222,8 @@
   "language_code": "fil",
   "country_code": "PH",
   "currency_code": "PHP",
-  "currency_symbol": "₱"
+  "currency_symbol": "₱",
+  "native": false
  },
  {
   "country_name": "Finland",
@@ -206,7 +231,8 @@
   "language_code": "fi",
   "country_code": "FI",
   "currency_code": "EUR",
-  "currency_symbol": "€"
+  "currency_symbol": "€",
+  "native": false
  },
  {
   "country_name": "Benin",
@@ -214,7 +240,8 @@
   "language_code": "fr",
   "country_code": "BJ",
   "currency_code": "XOF",
-  "currency_symbol": "CFA"
+  "currency_symbol": "CFA",
+  "native": false
  },
  {
   "country_name": "Netherlands",
@@ -222,7 +249,8 @@
   "language_code": "nl ",
   "country_code": "NL",
   "currency_code": "EUR",
-  "currency_symbol": "€"
+  "currency_symbol": "€",
+  "native": true
  },
  {
   "country_name": "Spain",
@@ -230,7 +258,8 @@
   "language_code": "es",
   "country_code": "ES",
   "currency_code": "EUR",
-  "currency_symbol": "€"
+  "currency_symbol": "€",
+  "native": true
  },
  {
   "country_name": "Georgia",
@@ -238,7 +267,8 @@
   "language_code": "ka",
   "country_code": "GE",
   "currency_code": "GEL",
-  "currency_symbol": "GEL"
+  "currency_symbol": "GEL",
+  "native": false
  },
  {
   "country_name": "Austria",
@@ -246,7 +276,8 @@
   "language_code": "de",
   "country_code": "AT",
   "currency_code": "EUR",
-  "currency_symbol": "€"
+  "currency_symbol": "€",
+  "native": false
  },
  {
   "country_name": "Cyprus",
@@ -254,7 +285,8 @@
   "language_code": "el",
   "country_code": "CY",
   "currency_code": "EUR",
-  "currency_symbol": "€"
+  "currency_symbol": "€",
+  "native": false
  },
  {
   "country_name": "Paraguay",
@@ -262,7 +294,8 @@
   "language_code": "gn",
   "country_code": "PY",
   "currency_code": "PYG",
-  "currency_symbol": "₲"
+  "currency_symbol": "₲",
+  "native": false
  },
  {
   "country_name": "Guinea",
@@ -270,7 +303,8 @@
   "language_code": "fr",
   "country_code": "GN",
   "currency_code": "GNF",
-  "currency_symbol": "FG"
+  "currency_symbol": "FG",
+  "native": false
  },
  {
   "country_name": "Haiti",
@@ -278,7 +312,8 @@
   "language_code": "ht",
   "country_code": "HT",
   "currency_code": "HTG",
-  "currency_symbol": "HTG"
+  "currency_symbol": "HTG",
+  "native": false
  },
  {
   "country_name": "United States",
@@ -286,7 +321,8 @@
   "language_code": "en",
   "country_code": "US",
   "currency_code": "USD",
-  "currency_symbol": "$"
+  "currency_symbol": "$",
+  "native": false
  },
  {
   "country_name": "Israel",
@@ -294,7 +330,8 @@
   "language_code": "he",
   "country_code": "IL",
   "currency_code": "ILS",
-  "currency_symbol": "₪"
+  "currency_symbol": "₪",
+  "native": false
  },
  {
   "country_name": "India",
@@ -302,7 +339,8 @@
   "language_code": "hi",
   "country_code": "IN",
   "currency_code": "INR",
-  "currency_symbol": "₹"
+  "currency_symbol": "₹",
+  "native": false
  },
  {
   "country_name": "Hungary",
@@ -310,7 +348,8 @@
   "language_code": "hu",
   "country_code": "HU",
   "currency_code": "HUF",
-  "currency_symbol": "Ft"
+  "currency_symbol": "Ft",
+  "native": false
  },
  {
   "country_name": "Iceland",
@@ -318,7 +357,8 @@
   "language_code": "is",
   "country_code": "IS",
   "currency_code": "ISK",
-  "currency_symbol": "kr"
+  "currency_symbol": "kr",
+  "native": false
  },
  {
   "country_name": "Indonesia",
@@ -326,7 +366,8 @@
   "language_code": "id",
   "country_code": "ID",
   "currency_code": "IDR",
-  "currency_symbol": "Rp"
+  "currency_symbol": "Rp",
+  "native": false
  },
  {
   "country_name": "Ireland",
@@ -334,7 +375,8 @@
   "language_code": "ga",
   "country_code": "IE",
   "currency_code": "EUR",
-  "currency_symbol": "€"
+  "currency_symbol": "€",
+  "native": false
  },
  {
   "country_name": "Italy",
@@ -342,7 +384,8 @@
   "language_code": "it",
   "country_code": "IT",
   "currency_code": "EUR",
-  "currency_symbol": "€"
+  "currency_symbol": "€",
+  "native": false
  },
  {
   "country_name": "Japan",
@@ -350,7 +393,8 @@
   "language_code": "ja",
   "country_code": "JP",
   "currency_code": "JPY",
-  "currency_symbol": "￥"
+  "currency_symbol": "￥",
+  "native": false
  },
  {
   "country_name": "Kazakhstan",
@@ -358,7 +402,8 @@
   "language_code": "kk",
   "country_code": "KZ",
   "currency_code": "KZT",
-  "currency_symbol": "₸"
+  "currency_symbol": "₸",
+  "native": false
  },
  {
   "country_name": "Cambodia",
@@ -366,7 +411,8 @@
   "language_code": "km",
   "country_code": "KH",
   "currency_code": "KHR",
-  "currency_symbol": "KHR"
+  "currency_symbol": "KHR",
+  "native": false
  },
  {
   "country_name": "Rwanda",
@@ -374,7 +420,8 @@
   "language_code": "rw",
   "country_code": "RW",
   "currency_code": "RWF",
-  "currency_symbol": "RF"
+  "currency_symbol": "RF",
+  "native": false
  },
  {
   "country_name": "North Korea",
@@ -382,7 +429,8 @@
   "language_code": "ko",
   "country_code": "KP",
   "currency_code": "KPW",
-  "currency_symbol": "₩"
+  "currency_symbol": "₩",
+  "native": false
  },
  {
   "country_name": "Sierra Leone",
@@ -390,7 +438,8 @@
   "language_code": "en",
   "country_code": "SL",
   "currency_code": "SLL",
-  "currency_symbol": "Le"
+  "currency_symbol": "Le",
+  "native": false
  },
  {
   "country_name": "Iraq",
@@ -398,7 +447,8 @@
   "language_code": "ar",
   "country_code": "IQ",
   "currency_code": "IQD",
-  "currency_symbol": "IQD"
+  "currency_symbol": "IQD",
+  "native": false
  },
  {
   "country_name": "Kyrgyzstan",
@@ -406,7 +456,8 @@
   "language_code": "ky",
   "country_code": "KG",
   "currency_code": "KGS",
-  "currency_symbol": "KGS"
+  "currency_symbol": "KGS",
+  "native": false
  },
  {
   "country_name": "Laos",
@@ -414,7 +465,8 @@
   "language_code": "lo",
   "country_code": "LA",
   "currency_code": "LAK",
-  "currency_symbol": "LAK"
+  "currency_symbol": "LAK",
+  "native": false
  },
  {
   "country_name": "Vatican City",
@@ -422,7 +474,8 @@
   "language_code": "la",
   "country_code": "VA",
   "currency_code": "EUR",
-  "currency_symbol": "€"
+  "currency_symbol": "€",
+  "native": false
  },
  {
   "country_name": "Latvia",
@@ -430,7 +483,8 @@
   "language_code": "lv",
   "country_code": "LV",
   "currency_code": "EUR",
-  "currency_symbol": "€"
+  "currency_symbol": "€",
+  "native": false
  },
  {
   "country_name": "Republic of the Congo",
@@ -438,7 +492,8 @@
   "language_code": "fr",
   "country_code": "CG",
   "currency_code": "CDF",
-  "currency_symbol": "FC"
+  "currency_symbol": "FC",
+  "native": false
  },
  {
   "country_name": "Lithuania",
@@ -446,7 +501,8 @@
   "language_code": "lt",
   "country_code": "LT",
   "currency_code": "EUR",
-  "currency_symbol": "€"
+  "currency_symbol": "€",
+  "native": false
  },
  {
   "country_name": "Uganda",
@@ -454,7 +510,8 @@
   "language_code": "sw",
   "country_code": "UG",
   "currency_code": "UGX",
-  "currency_symbol": "USh"
+  "currency_symbol": "USh",
+  "native": false
  },
  {
   "country_name": "Luxembourg",
@@ -462,7 +519,8 @@
   "language_code": "lb",
   "country_code": "LU",
   "currency_code": "EUR",
-  "currency_symbol": "€"
+  "currency_symbol": "€",
+  "native": false
  },
  {
   "country_name": "North Macedonia",
@@ -470,7 +528,8 @@
   "language_code": "mk",
   "country_code": "MK",
   "currency_code": "MKD",
-  "currency_symbol": "den"
+  "currency_symbol": "den",
+  "native": false
  },
  {
   "country_name": "Madagascar",
@@ -478,7 +537,8 @@
   "language_code": "mg",
   "country_code": "MG",
   "currency_code": "MGA",
-  "currency_symbol": "MGA"
+  "currency_symbol": "MGA",
+  "native": false
  },
  {
   "country_name": "Brunei",
@@ -486,7 +546,8 @@
   "language_code": "ms",
   "country_code": "BN",
   "currency_code": "BND",
-  "currency_symbol": "$"
+  "currency_symbol": "$",
+  "native": false
  },
  {
   "country_name": "Malta",
@@ -494,7 +555,8 @@
   "language_code": "mt",
   "country_code": "MT",
   "currency_code": "EUR",
-  "currency_symbol": "€"
+  "currency_symbol": "€",
+  "native": false
  },
  {
   "country_name": "New Zealand",
@@ -502,7 +564,8 @@
   "language_code": "mi",
   "country_code": "NZ",
   "currency_code": "NZD",
-  "currency_symbol": "$"
+  "currency_symbol": "$",
+  "native": false
  },
  {
   "country_name": "Mongolia",
@@ -510,7 +573,8 @@
   "language_code": "mn",
   "country_code": "MN",
   "currency_code": "MNT",
-  "currency_symbol": "₮"
+  "currency_symbol": "₮",
+  "native": false
  },
  {
   "country_name": "Myanmar [Burma]",
@@ -518,7 +582,8 @@
   "language_code": "my",
   "country_code": "MM",
   "currency_code": "MMK",
-  "currency_symbol": "K"
+  "currency_symbol": "K",
+  "native": false
  },
  {
   "country_name": "Nepal",
@@ -526,7 +591,8 @@
   "language_code": "ne",
   "country_code": "NP",
   "currency_code": "NPR",
-  "currency_symbol": "Rs"
+  "currency_symbol": "Rs",
+  "native": false
  },
  {
   "country_name": "Norway",
@@ -534,7 +600,8 @@
   "language_code": "no",
   "country_code": "NO",
   "currency_code": "NOK",
-  "currency_symbol": "kr"
+  "currency_symbol": "kr",
+  "native": false
  },
  {
   "country_name": "Malawi",
@@ -542,7 +609,8 @@
   "language_code": "en",
   "country_code": "MW",
   "currency_code": "MWK",
-  "currency_symbol": "MK"
+  "currency_symbol": "MK",
+  "native": false
  },
  {
   "country_name": "Afghanistan",
@@ -550,7 +618,8 @@
   "language_code": "ps",
   "country_code": "AF",
   "currency_code": "AFN",
-  "currency_symbol": "؋"
+  "currency_symbol": "؋",
+  "native": false
  },
  {
   "country_name": "Iran",
@@ -558,7 +627,8 @@
   "language_code": "fa",
   "country_code": "IR",
   "currency_code": "IRR",
-  "currency_symbol": "IRR"
+  "currency_symbol": "IRR",
+  "native": false
  },
  {
   "country_name": "Poland",
@@ -566,7 +636,8 @@
   "language_code": "pl",
   "country_code": "PL",
   "currency_code": "PLN",
-  "currency_symbol": "zł"
+  "currency_symbol": "zł",
+  "native": false
  },
  {
   "country_name": "Portugal",
@@ -574,7 +645,8 @@
   "language_code": "pt",
   "country_code": "PT",
   "currency_code": "EUR",
-  "currency_symbol": "€"
+  "currency_symbol": "€",
+  "native": false
  },
  {
   "country_name": "Peru",
@@ -582,7 +654,8 @@
   "language_code": "es",
   "country_code": "PE",
   "currency_code": "PEN",
-  "currency_symbol": "S\/."
+  "currency_symbol": "S\/.",
+  "native": false
  },
  {
   "country_name": "Moldova",
@@ -590,7 +663,8 @@
   "language_code": "ro",
   "country_code": "MD",
   "currency_code": "MDL",
-  "currency_symbol": "MDL"
+  "currency_symbol": "MDL",
+  "native": false
  },
  {
   "country_name": "Russia",
@@ -598,7 +672,8 @@
   "language_code": "ru",
   "country_code": "RU",
   "currency_code": "RUB",
-  "currency_symbol": "₽"
+  "currency_symbol": "₽",
+  "native": false
  },
  {
   "country_name": "Samoa",
@@ -606,7 +681,8 @@
   "language_code": "sm",
   "country_code": "WS",
   "currency_code": "WST",
-  "currency_symbol": "SAT"
+  "currency_symbol": "SAT",
+  "native": false
  },
  {
   "country_name": "United Kingdom",
@@ -614,7 +690,8 @@
   "language_code": "en",
   "country_code": "GB",
   "currency_code": "GBP",
-  "currency_symbol": "£"
+  "currency_symbol": "£",
+  "native": false
  },
  {
   "country_name": "Serbia",
@@ -622,7 +699,8 @@
   "language_code": "sr",
   "country_code": "RS",
   "currency_code": "RSD",
-  "currency_symbol": "RSD"
+  "currency_symbol": "RSD",
+  "native": false
  },
  {
   "country_name": "Lesotho",
@@ -630,7 +708,8 @@
   "language_code": "st",
   "country_code": "LS",
   "currency_code": "LSL",
-  "currency_symbol": "L"
+  "currency_symbol": "L",
+  "native": false
  },
  {
   "country_name": "Zimbabwe",
@@ -638,7 +717,8 @@
   "language_code": "sn",
   "country_code": "ZW",
   "currency_code": "ZWL",
-  "currency_symbol": "$"
+  "currency_symbol": "$",
+  "native": false
  },
  {
   "country_name": "Sri Lanka",
@@ -646,7 +726,8 @@
   "language_code": "si",
   "country_code": "LK",
   "currency_code": "LKR",
-  "currency_symbol": "RS"
+  "currency_symbol": "RS",
+  "native": false
  },
  {
   "country_name": "Slovakia",
@@ -654,7 +735,8 @@
   "language_code": "sk",
   "country_code": "SK",
   "currency_code": "EUR",
-  "currency_symbol": "€"
+  "currency_symbol": "€",
+  "native": false
  },
  {
   "country_name": "Slovenia",
@@ -662,7 +744,8 @@
   "language_code": "sl",
   "country_code": "SI",
   "currency_code": "EUR",
-  "currency_symbol": "€"
+  "currency_symbol": "€",
+  "native": false
  },
  {
   "country_name": "Somalia",
@@ -670,7 +753,8 @@
   "language_code": "so",
   "country_code": "SO",
   "currency_code": "SOS",
-  "currency_symbol": "SOS"
+  "currency_symbol": "SOS",
+  "native": false
  },
  {
   "country_name": "Argentina",
@@ -678,7 +762,8 @@
   "language_code": "es",
   "country_code": "AR",
   "currency_code": "ARS",
-  "currency_symbol": "$"
+  "currency_symbol": "$",
+  "native": false
  },
  {
   "country_name": "Kenya",
@@ -686,7 +771,8 @@
   "language_code": "sw",
   "country_code": "KE",
   "currency_code": "KES",
-  "currency_symbol": "KES"
+  "currency_symbol": "KES",
+  "native": false
  },
  {
   "country_name": "Sweden",
@@ -694,7 +780,8 @@
   "language_code": "sv",
   "country_code": "SE",
   "currency_code": "SEK",
-  "currency_symbol": "KER"
+  "currency_symbol": "KER",
+  "native": false
  },
  {
   "country_name": "Tajikistan",
@@ -702,7 +789,8 @@
   "language_code": "tg",
   "country_code": "TJ",
   "currency_code": "TJS",
-  "currency_symbol": "TJS"
+  "currency_symbol": "TJS",
+  "native": false
  },
  {
   "country_name": "Thailand",
@@ -710,7 +798,8 @@
   "language_code": "th",
   "country_code": "TH",
   "currency_code": "THB",
-  "currency_symbol": "฿"
+  "currency_symbol": "฿",
+  "native": false
  },
  {
   "country_name": "Eritrea",
@@ -718,7 +807,8 @@
   "language_code": "ti",
   "country_code": "ER",
   "currency_code": "ERN",
-  "currency_symbol": "ERN"
+  "currency_symbol": "ERN",
+  "native": false
  },
  {
   "country_name": "Turkey",
@@ -726,7 +816,8 @@
   "language_code": "tr",
   "country_code": "TR",
   "currency_code": "TRY",
-  "currency_symbol": "₺"
+  "currency_symbol": "₺",
+  "native": false
  },
  {
   "country_name": "Turkmenistan",
@@ -734,7 +825,8 @@
   "language_code": "tk",
   "country_code": "TM",
   "currency_code": "TMT",
-  "currency_symbol": "m"
+  "currency_symbol": "m",
+  "native": false
  },
  {
   "country_name": "Ukraine",
@@ -742,7 +834,8 @@
   "language_code": "uk",
   "country_code": "UA",
   "currency_code": "UAH",
-  "currency_symbol": "UAH"
+  "currency_symbol": "UAH",
+  "native": false
  },
  {
   "country_name": "Pakistan",
@@ -750,7 +843,8 @@
   "language_code": "ur",
   "country_code": "PK",
   "currency_code": "PKR",
-  "currency_symbol": "₨"
+  "currency_symbol": "₨",
+  "native": false
  },
  {
   "country_name": "Uzbekistan",
@@ -758,7 +852,8 @@
   "language_code": "uz",
   "country_code": "UZ",
   "currency_code": "UZS",
-  "currency_symbol": "UZS"
+  "currency_symbol": "UZS",
+  "native": false
  },
  {
   "country_name": "Vietnam",
@@ -766,7 +861,8 @@
   "language_code": "vi",
   "country_code": "VN",
   "currency_code": "VND",
-  "currency_symbol": "₫"
+  "currency_symbol": "₫",
+  "native": false
  },
  {
   "country_name": "Wales",
@@ -774,7 +870,8 @@
   "language_code": "cy",
   "country_code": "WAL",
   "currency_code": "GBP",
-  "currency_symbol": "£"
+  "currency_symbol": "£",
+  "native": false
  },
  {
   "country_name": "Nigeria",
@@ -782,7 +879,8 @@
   "language_code": "en",
   "country_code": "NG",
   "currency_code": "NGN",
-  "currency_symbol": "₦"
+  "currency_symbol": "₦",
+  "native": false
  }
-  ]
+]
 }
