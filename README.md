@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sammrafi</h1>
+<h1 align="center">Hi 👋, I'm Md Saad</h1>
 <h3 align="center">A passionate software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sammrafi&label=Profile%20views&color=0e75b6&style=flat" alt="sammrafi" /> </p>
@@ -15,13 +15,13 @@
 
 - 🤝 I’m looking for help with **AI**
 
-- 💬 Ask me about **django, python, flutter**
+- 💬 Ask me about **Django, python, flutter**
 
 - 📫 How to reach me **developer@sammrafi.com**
 
 - 📄 Know about my experiences [https://sammrafi.com](https://sammrafi.com)
 
-- ⚡ Fun fact **I don't know what I need to do as developer.**
+- ⚡ Fun fact **I don't know what to do as a developer.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
