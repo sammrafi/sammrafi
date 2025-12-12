@@ -17,9 +17,9 @@
 
 - 💬 Ask me about **Django, python, flutter**
 
-- 📫 How to reach me **developer@sammrafi.com**
+- 📫 How to reach me **developer@sammx.com**
 
-- 📄 Know about my experiences [https://sammrafi.com](https://sammrafi.com)
+- 📄 Know about my experiences [https://www.sammx.com](https://www.sammx.com)
 
 - ⚡ Fun fact **I don't know what to do as a developer.**
 
